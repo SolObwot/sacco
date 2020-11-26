@@ -1,0 +1,91 @@
+.dropdown:hover 
+.dropdown-menu {
+display: block;
+}
+	
+	
+
+img {
+ width: 100%;
+  height: auto;
+}
+
+
+.social {
+ width: 6%;
+  height: auto;
+}
+
+.img2 {
+ width: 80%;
+  height: auto;
+}
+
+.logo {
+ width: 15%;
+  height: auto;
+}
+
+.booking {
+ width: 20%;
+  height: auto;
+}
+
+	
+
+div {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+ .navbar.navbar-dark .nav-item .nav-link:hover { background-color: #000000!important; }
+ .navbar.navbar-dark .nav-item .nav-link:focus { color: #333542!important; }
+ .navbar.navbar-dark .nav-item .nav-link:active { color: #333542!important; }
+ .navbar.navbar-dark .nav-item .nav-link:visited { color: #ff0000!important; }
+ 
+ .navbar.navbar-dark .nav-item .dropdown-item:hover { background-color: #000000!important; }
+ 
+
+ 
+@media screen and (max-width: 600px) {	
+tr{
+    display: inline;
+    float:left;
+}
+
+td{
+   display: inline;
+   
+}
+
+.img {
+ width: 100%;
+  height: auto;
+}
+
+
+.social {
+ width: 8%;
+  height: auto;
+}
+
+.logo {
+ width: 15%;
+  height: auto;
+}
+
+
+.booking {
+ width: 100%;
+  height: auto;
+}
+
+
+.img2 {
+ width: 80%;
+  height: auto;
+}
+
+}
